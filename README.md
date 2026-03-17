@@ -1,5 +1,5 @@
 # RE9-AdvancedFOV
-made cus i was bored
+specifically made for RE9 speedrunning, customization heavily stripped
 
 how to use:
 1. make sure you don't have any other FOV mods installed
