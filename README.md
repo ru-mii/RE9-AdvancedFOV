@@ -4,7 +4,7 @@ specifically made for RE9 speedrunning, customization heavily stripped
 how to use:
 1. make sure you don't have any other FOV mods installed
 2. [reframework](https://github.com/praydog/REFramework-nightly/releases) needs to be installed to deal with capcom's integrity checks
-3. take the FOV display with a pinch of salt
+3. take the FOV display with a pinch of salt, the actual change is accurate
 4. run the program and it will hook & load automatically
 5. you can close it after it loads
 6. you're good
